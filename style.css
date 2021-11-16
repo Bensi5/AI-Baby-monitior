@@ -1,0 +1,26 @@
+body{
+    background-size: cover;
+    background-position: center;
+}
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+background-color: limegreen;
+}
+
+#status
+{
+font-size: 18px;
+background-color: purple;
+    color:white;
+}
+.heading:hover{
+    background-color: yellow;
+}
+canvas{
+box-shadow: 5px 5px 18px palevioletred;
+border-radius: 20px;
+margin-top: 150px;
+}
